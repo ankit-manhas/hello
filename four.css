@@ -1,0 +1,28 @@
+#button {
+    color: green;
+}
+
+#name {
+    color: orange;
+}
+
+#image {
+    background-color: gray;
+}
+
+.latter {
+    background-color: gray;
+}
+
+.underline {
+    color: red;
+}
+
+#submit {
+    color: white;
+    background-color: black;
+}
+
+.border {
+    border: 5px solid red;
+}
